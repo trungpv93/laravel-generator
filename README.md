@@ -16,7 +16,7 @@ Documentation is located [here](http://labs.infyom.com/laravelgenerator)
 ```php
 "require": {
 	...
-	"infyomlabs/laravel-generator": "5.3.x-dev",
+	"trungpv93/laravel-generator": "5.3.x-dev",
 	"laravelcollective/html": "dev-master",
 	"doctrine/dbal": "~2.3" //If you want to use Generate from Table option, you need to install
 }
